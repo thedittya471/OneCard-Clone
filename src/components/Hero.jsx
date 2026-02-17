@@ -1,7 +1,7 @@
 import React from 'react'
 import './hero.css'
 import BankingPartners from '../assets/bank-list.png'
-import HeroVid from '../assets/hero-vid.mp4'
+import HeroVid from '../assets/Hero-Vid.mp4'
 
 const Hero = () => {
   return (
