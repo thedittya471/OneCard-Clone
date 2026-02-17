@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import LogoWhite from '../assets/Logo-White.png'
+import LogoWhite from '../assets/Logo-white.png'
 import { AiOutlineFacebook } from "react-icons/ai";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { RxInstagramLogo } from "react-icons/rx";
